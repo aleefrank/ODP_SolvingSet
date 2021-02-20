@@ -1,11 +1,12 @@
 # ODPSolvingSet
 Project work for "Data Mining" (held by Prof. Claudio Sartori) University of Bologna.
 
+### Introduction
 This project work aims to implement a Distance-Based Detection and Prediction of Outliers algorithm (proposed by 
 [Fabrizio Angiulli, Stefano Basta, and Clara Pizzuti](https://ieeexplore.ieee.org/document/1563979)),
 in Julia, a general purpose programming language, designed for high computation purposes: an essential peculiarity for calculating distances on large scale datasets.
 
-All implementation details are exposed in `ODPSolvingSetJulia_AlessandroFranca.pdf`
+For a detailed report, consult ![alt text](/ODPSolvingSetJulia_AlessandroFranca.pdf) `ODPSolvingSetJulia_AlessandroFranca.pdf`
 
 ![alt text](img/test1.jpg)
 ![alt text](img/test2.jpg)
