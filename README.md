@@ -5,7 +5,9 @@ in Julia, a general purpose programming language, designed for high computation 
 
 All implementation details are exposed in `ODPSolvingSetJulia_AlessandroFranca.pdf`
 
-![alt text](https://github.com/aleefrank/ODP_SolvingSet/blob/master/img/test1.jpg?raw=true)
+![alt text](img/test1.jpg?raw=true)
+![alt text](img/test2.jpg?raw=true)
+![alt text](img/test3.jpg?raw=true)
 
 
 
