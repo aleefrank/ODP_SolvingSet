@@ -6,7 +6,7 @@ This project work aims to implement a Distance-Based Detection and Prediction of
 [Fabrizio Angiulli, Stefano Basta, and Clara Pizzuti](https://ieeexplore.ieee.org/document/1563979)),
 in Julia, a general purpose programming language, designed for high computation purposes: an essential peculiarity for calculating distances on large scale datasets.
 
-For a detailed report, consult ![alt text](/ODPSolvingSetJulia_AlessandroFranca.pdf) `ODPSolvingSetJulia_AlessandroFranca.pdf`
+For a detailed report, consult [this pdf](/ODPSolvingSetJulia_AlessandroFranca.pdf)
 
 ![alt text](img/test1.jpg)
 ![alt text](img/test2.jpg)
@@ -14,7 +14,7 @@ For a detailed report, consult ![alt text](/ODPSolvingSetJulia_AlessandroFranca.
 
 
 
-### Run the program
+### Usage
 One of the great things about the Julia programming language is that it is very easy to manage the dependencies of your project.
 Two files Project.toml and Manifest.toml uniquely specify which packages are needed.
 
