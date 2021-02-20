@@ -6,7 +6,7 @@ This project work aims to implement a Distance-Based Detection and Prediction of
 [Fabrizio Angiulli, Stefano Basta, and Clara Pizzuti](https://ieeexplore.ieee.org/document/1563979)),
 in Julia, a general purpose programming language, designed for high computation purposes: an essential peculiarity for calculating distances on large scale datasets.
 
-For a detailed report, consult [this pdf](/ODPSolvingSetJulia_AlessandroFranca.pdf)
+For a detailed report, consult [this pdf](/ODPSolvingSet_AlessandroFranca.pdf)
 
 ![alt text](img/test1.jpg)
 ![alt text](img/test2.jpg)
